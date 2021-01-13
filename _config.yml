@@ -9,8 +9,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Ask Questions
-subtitle: "퍼포먼스 마케팅과 서비스 기획 노하우 정리 블로그"
+title: Hong'S 정리 블로그
+subtitle: "Marketing, Product, Coding"
 email: lovequentin07@gmail.com
 name: Jihong
 description: >
