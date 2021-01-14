@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Hong'S 정리 블로그
+title: Hong's 정리 블로그
 subtitle: "Marketing, Product, Coding"
 email: lovequentin07@gmail.com
 name: Jihong
@@ -19,7 +19,7 @@ description: >
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://github.com/lovequentin07/lovequentin07.github.io.git" # the base hostname & protocol for your site
+url: "https://lovequentin07.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.png"
 logo: "/assets/logo.jpg"
 
